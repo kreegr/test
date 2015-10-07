@@ -1,0 +1,14 @@
+Hey Ray!
+
+When creating new files in your project be sure to:
+git add theFilename
+
+Then, when you're ready to save your revision:
+git commit -m "Your commit message"
+
+And when you want to push your changes to github:
+git push origin master:master
+
+Be sure to checkout:
+https://git-scm.com/
+
